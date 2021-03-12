@@ -8,11 +8,10 @@
     "url": "https://github.com/Snackswap/snackswap-core"
   },
   "keywords": [
-    "uniswap",
+    "snackswap",
     "ethereum",
-    "v2",
-    "core",
-    "uniswap-v2"
+    "fantom",
+    "core"
   ],
   "files": [
     "contracts",
